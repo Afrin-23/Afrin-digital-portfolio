@@ -179,7 +179,7 @@
 
         <!-- Resume Section -->
         <div id="resume" class="resume">
-            <a href="#" onclick="alert('CV download will be available soon!')">Download CV</a>
+            <a href="#" onclick="Screenshot_2025-03-26-21-11-40-553_com.miui.gallery.jpg">Download CV</a>
         </div>
 
         <!-- GitHub Link -->
