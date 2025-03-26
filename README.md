@@ -122,7 +122,7 @@
     <!-- Header Section with Profile Pic -->
     <div class="header">
         <div class="profile-container">
-            <img src="profile.jpg" alt="S. AFRIN BANU">
+            <img src="Screenshot_2025-03-26-21-11-40-553_com.miui.gallery.jpg" alt="S. AFRIN BANU">
         </div>
         <div class="header-content">
             <h1>S. AFRIN BANU</h1>
